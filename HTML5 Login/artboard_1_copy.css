@@ -1,0 +1,275 @@
+/*
+	@name artboard_1_copy
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 750px; height: 1334px; overflow: hidden;  }
+
+#_bg__artboard_1_copy {
+	top: 0px;
+	left: 0px;
+	width: 750px;
+	height: 1334px;
+	background:rgba(255,255,255,255);
+}
+
+#base {
+	top: 0px;
+	left: 0px;
+	width: 750.115234375px;
+	height: 1334px;
+}
+#group_1 {
+	top: 0px;
+	left: 0px;
+	width: 750.115234375px;
+	height: 1334px;
+}
+
+#rectangle_1 {
+	top: 1264px;
+	left: 0px;
+	width: 750px;
+	height: 69.939453125px;
+	background:rgba(249,248,249,255);
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 750.115234375px;
+	height: 350.92953491211px;
+	background:rgba(249,248,249,255);
+}
+
+
+#rectangle_3 {
+	top: 314px;
+	left: 0px;
+	width: 750px;
+	height: 985.42150878906px;
+	-ms-border-radius: 25.603391647338867px;
+	-o-border-radius: 25.603391647338867px;
+	-moz-border-radius: 25.603391647338867px;
+	-webkit-border-radius: 25.603391647338867px;
+	border-radius: 25.603391647338867px;
+	background:rgba(76,76,76,255);
+}
+
+#campouser {
+	top: 629.18444824219px;
+	left: 111.29393005371px;
+	width: 539.99908447266px;
+	height: 57.649780273438px;
+}
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 539.99908447266px;
+	height: 57.649780273438px;
+	-ms-border-radius: 28.824867248535156px;
+	-o-border-radius: 28.824867248535156px;
+	-moz-border-radius: 28.824867248535156px;
+	-webkit-border-radius: 28.824867248535156px;
+	border-radius: 28.824867248535156px;
+	background:rgba(249,248,249,255);
+}
+
+#campopassword {
+	top: 788.16040039062px;
+	left: 111.29393005371px;
+	width: 539.99908447266px;
+	height: 57.649780273438px;
+}
+
+#rectangle_5 {
+	top: 0px;
+	left: 0px;
+	width: 539.99908447266px;
+	height: 57.649780273438px;
+	-ms-border-radius: 28.824867248535156px;
+	-o-border-radius: 28.824867248535156px;
+	-moz-border-radius: 28.824867248535156px;
+	-webkit-border-radius: 28.824867248535156px;
+	border-radius: 28.824867248535156px;
+	background:rgba(249,248,249,255);
+}
+
+#login {
+	top: 1054.4722900391px;
+	left: 189.78927612305px;
+	width: 383.31387329102px;
+	height: 64.906372070312px;
+}
+#group_2 {
+	top: 0px;
+	left: 0px;
+	width: 383.31387329102px;
+	height: 64.906372070312px;
+}
+
+#rectangle_6 {
+	top: 0px;
+	left: 0px;
+	width: 373.31387329102px;
+	height: 54.906372070312px;
+	-ms-border-radius: 32.45315933227539px;
+	-o-border-radius: 32.45315933227539px;
+	-moz-border-radius: 32.45315933227539px;
+	-webkit-border-radius: 32.45315933227539px;
+	border-radius: 32.45315933227539px;
+	border: 5px solid #e54d52;
+	background:#;
+}
+
+
+#login_ek1 {
+	top: -10px;
+	left: 129px;
+	width: 115px;
+	height: 62px;
+	font-family: DIN;
+	font-size: 43.966091156006px;
+	text-align: center;
+	color:#f9f8f9;
+}
+
+#user {
+	top: 571.26708984375px;
+	left: 146.89781188965px;
+	width: 168.00001525879px;
+	height: 45px;
+}
+
+#username {
+	top: -9px;
+	left: -6px;
+	width: 173.00001525879px;
+	height: 52px;
+	font-family: DIN;
+	font-size: 36.651519775391px;
+	text-align: center;
+	color:#f9f8f9;
+}
+
+#password {
+	top: 730.244140625px;
+	left: 145.70445251465px;
+	width: 158.00001525879px;
+	height: 45px;
+}
+
+#password_ek1 {
+	top: -9px;
+	left: -6px;
+	width: 163.00001525879px;
+	height: 52px;
+	font-family: DIN;
+	font-size: 36.651519775391px;
+	text-align: center;
+	color:#f9f8f9;
+}
+
+#remember {
+	top: 908.74157714844px;
+	left: 395.1640625px;
+	width: 194px;
+	height: 36px;
+}
+
+#remember_me {
+	top: -7px;
+	left: -5px;
+	width: 199px;
+	height: 42px;
+	font-family: DIN;
+	font-size: 29.321220397949px;
+	text-align: center;
+	color:#f9f8f9;
+}
+
+#quadratino {
+	top: 910.865234375px;
+	left: 617.0849609375px;
+	width: 34.208068847656px;
+	height: 34.208068847656px;
+}
+
+#rectangle_7 {
+	top: 0px;
+	left: 0px;
+	width: 34.208068847656px;
+	height: 34.208068847656px;
+	-ms-border-radius: 1.7916666269302368px;
+	-o-border-radius: 1.7916666269302368px;
+	-moz-border-radius: 1.7916666269302368px;
+	-webkit-border-radius: 1.7916666269302368px;
+	border-radius: 1.7916666269302368px;
+	background:rgba(249,248,249,255);
+}
+
+#forgot {
+	top: 1252.640625px;
+	left: 269.62890625px;
+	width: 222px;
+	height: 26px;
+}
+
+#forgot_your_password_ {
+	top: -6px;
+	left: -4px;
+	width: 227px;
+	height: 30px;
+	font-family: DIN;
+	font-size: 21.990909576416px;
+	text-align: center;
+	color:#f9f8f9;
+}
+
+#goccia {
+	top: 132.76567077637px;
+	left: 230.89781188965px;
+	width: 285.07537841797px;
+	height: 311.90100097656px;
+}
+#bandasuperiore {
+	top: 0px;
+	left: 0px;
+	width: 285.07537841797px;
+	height: 311.90100097656px;
+}
+
+#rectangle_8 {
+	top: 13px;
+	left: 9px;
+	width: 276.1796875px;
+	height: 298.76040649414px;
+	background:#;
+}
+
+#group_4 {
+	top: 0px;
+	left: 0px;
+	width: 285.07537841797px;
+	height: 311.90100097656px;
+}
+
+#group_3 {
+	top: 0px;
+	left: 0px;
+	width: 285.07537841797px;
+	height: 311.90100097656px;
+}
+
+
+
+/* Add your custom CSS here */
